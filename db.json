@@ -19,7 +19,6 @@
 		{ "transportador": 1, "area": 2, "preco_Kg_Km": 0.55 },
 		{ "transportador": 2, "area": 1, "preco_Kg_Km": 0.50 },
 		{ "transportador": 2, "area": 2, "preco_Kg_Km": 0.55 },
-		{ "transportador": 2, "area": 3, "preco_Kg_Km": 0.40 },
 		{ "transportador": 3, "area": 4, "preco_Kg_Km": 0.70 }
 	],
 	"sobrou2": [
