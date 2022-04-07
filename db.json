@@ -21,7 +21,7 @@
 		{ "transportador": 2, "area": 2, "preco_Kg_Km": 0.55 },
 		{ "transportador": 3, "area": 4, "preco_Kg_Km": 0.70 }
 	],
-	"sobrou2": [
+	"sobrou": [
 	],
 	"profile": {
 	    "name": "typicode"
